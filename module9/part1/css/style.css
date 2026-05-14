@@ -1,0 +1,32 @@
+/*p {
+    background-color: lightgrey;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   margin-left: 150px;
+    margin-right: 80px;
+}*/
+
+/*p {
+    margin: 100px 150px 100px 80px;
+    background-color: lightgrey;
+}*/
+
+/*p {
+    margin: 25px 50px 75px;
+    background-color: lightgrey;
+}*/
+
+p {
+    margin: 100px;
+    background-color: lightgrey;
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    background-color: lightgrey;
+    border: 15px solid green;
+}
